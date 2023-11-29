@@ -12,6 +12,8 @@ class Animal:
 murcielago = Animal("murcielago","3","negro")
 print(murcielago.mostrar())
 
+animal2 = Animal("perro",5,"amarillo")
+print(animal2.mostrar())
 
            
     
